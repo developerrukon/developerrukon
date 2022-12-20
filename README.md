@@ -26,5 +26,7 @@ Skills: PHP  / LARAVEL / OOP/ MYSQL DATABASE /WORDPRESS(elementor-pro) / HTML/ C
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=developerrukon)  
 
 ![GitHub metrics](https://metrics.lecoq.io/developerrukon)  
-  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=developerrukon)
+
 ![Profile views](https://gpvc.arturio.dev/developerrukon)  
