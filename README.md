@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rukon</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img src="https://eduauraapublic.s3.ap-south-1.amazonaws.com/webassets/images/blogs/how-to-become-a-programmer-in-india.jpg" width="100%" alt="coding"/>
+<img src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg" width="100%" alt="coding"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developerrukon" alt="developerrukon" /></a> </p>
 
