@@ -1,27 +1,32 @@
-<h1 align="center">Hi 👋, I'm Rukon</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg" width="100%" alt="coding"/>
+### Hi there 👋, Hi.! I'm Rukon
+#### full-stack web developer
+![full-stack web developer](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developerrukon" alt="developerrukon" /></a> </p>
+I am a professional web developer with an interest in design and storytelling. I am passionate about enhancing the user experience and
+maximizing the user interface.
 
-- 🌱 I’m currently learning **php(laravel)**
+Skills: PHP  / LARAVEL / OOP/ MYSQL DATABASE /WORDPRESS(elementor-pro) / HTML/ CSS/BOOTSTRAP/ JS / JQ / GRAPHIC DESING (illustration, photoshop)
 
-- 👨‍💻 All of my projects are available at [https://developerrukon.com/](https://developerrukon.com/)
+- 🔭 I’m currently working on php(laravel) 
+- 🌱 I’m currently learning laravel 
+- 👯 I’m looking to collaborate on web developer 
+- ⚡ Fun fact: I'm Funny 
 
-- 📫 How to reach me **developerrukon2001@gmail.com**
 
-- ⚡ Fun fact **I'm Funny**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/developerrukon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/developer-rukon/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/webdeveloperrukon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://developerrukon.com/)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/developerrukon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="developerrukon" height="30" width="40" /></a>
-</p>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=developerrukon)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developerrukon&show_icons=true&locale=en&layout=compact" alt="developerrukon" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developerrukon)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developerrukon&show_icons=true&locale=en" alt="developerrukon" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=developerrukon&show_icons=true&count_private=true)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developerrukon&" alt="developerrukon" /></p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=developerrukon)  
+
+![GitHub metrics](https://metrics.lecoq.io/developerrukon)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=developerrukon)  
+
+![Profile views](https://gpvc.arturio.dev/developerrukon)  
