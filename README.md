@@ -27,6 +27,6 @@ Skills: PHP  / LARAVEL / OOP/ MYSQL DATABASE /WORDPRESS(elementor-pro) / HTML/ C
 
 ![GitHub metrics](https://metrics.lecoq.io/developerrukon)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=developerrukon)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)  
 
 ![Profile views](https://gpvc.arturio.dev/developerrukon)  
