@@ -21,7 +21,7 @@ Skills: PHP  / LARAVEL / OOP/ MYSQL DATABASE /WORDPRESS(elementor-pro) / HTML/ C
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developerrukon)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=developerrukon&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=developerrukon&show_icons=true&count_private=true)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=developerrukon)  
 
